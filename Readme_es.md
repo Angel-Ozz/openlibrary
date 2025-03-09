@@ -24,7 +24,7 @@
    - [APIs Públicas](https://openlibrary.org/developers/api)
    - [Preguntas Frecuentes](https://openlibrary.org/help/faq)
 
-## Descricpción
+## Descripción
 
 Open Library es un esfuerzo empezado en el 2006 para crear "una página web para todo libro que ha sido publicado." Esta provee acceso a múltiples libros de dominio público y descatalogados que pueden leerse en línea.
 
